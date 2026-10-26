@@ -1,7 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://인천퀵서비스.퀵배송1661-4262.kr/sitemap.xml
-
-
-
+Sitemap: https://고양다마스퀵.퀵배송1661-4262.kr/sitemap.xml
